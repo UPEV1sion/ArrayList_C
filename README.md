@@ -3,7 +3,7 @@
 A very performant, fairly lightweight `ArrayList` implementation in C.
 
 > [!NOTE]
-> This `ArrayList` implementation only implements methods that are performant. The contains method was ditched because of the catastrophical performance of generically comparing items. This `ArrayList` implmentation does all memory management and cleanup internally.
+> This `ArrayList` implementation only implements methods that are performant. The contains method was ditched because of the catastrophical performance of generically comparing items. This `ArrayList` implementation does all memory management and cleanup internally.
 
  
 This document provides an overview and detailed description of the functions available in this `ArrayList` implementation.
